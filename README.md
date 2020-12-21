@@ -2,7 +2,7 @@
 
 Picture to go here...
 
-# Name: 
+#Name: 
 Student Number:
 Student Email:
 GitHub URL:  https://github.com/s3886144/MyProfile
